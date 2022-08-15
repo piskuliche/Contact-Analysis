@@ -1,0 +1,6 @@
+#fname indexname
+step8_1.xtc index.ndx
+#r_cut, rz_thick
+0.35 0.5
+#ncorr nsep ncalcframes
+500 25 1000
