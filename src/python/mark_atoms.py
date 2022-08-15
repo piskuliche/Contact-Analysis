@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 """
 This is a short python code that is part of the repository git@github.com:piskuliche/Contact-Analysis.git
 
