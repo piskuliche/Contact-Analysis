@@ -1,2 +1,4 @@
 bin/
 *.mod
+module/path.include
+module/contacts.lua
